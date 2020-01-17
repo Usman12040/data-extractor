@@ -1,0 +1,15 @@
+name
+age
+hobby
+play
+listen
+read
+reading
+like
+likes
+born
+old
+years
+playing
+listening
+riding
